@@ -1,0 +1,16 @@
+########
+Scaffold
+########
+
+This repository contains various templates to generate code or configuration.
+
+
+******
+screen
+******
+
+Generate .screenrc file:
+
+.. code:: sh
+
+   curl -X POST http://diecutter.io/github/benoitbryon/scaffold/master/templates/screenrc > ~/.screenrc
